@@ -16,7 +16,7 @@
   ```
 - Clone this repository:
   ```
-  git clone --recursive https://github.com/es7evam/worksohp-codeql
+  git clone --recursive https://github.com/es7evam/workshop-codeql
   ```
 
 - Abra o repositório no VSCode: (usando `code .` no terminal ou **File** > **Open Folder** > Abrir a pasta es7evam/workshop-codeql)
